@@ -1,0 +1,14 @@
+.main-header {
+  width: 100%;
+  background-color: #FFF;
+}
+
+.main-header .main-header__content {
+  max-width: 120rem;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1rem 3rem;
+}
